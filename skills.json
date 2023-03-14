@@ -1,0 +1,36 @@
+{
+
+	"skills": {
+
+
+		"skill_1": "Testing theory",
+		"skill_2": "Client-server architecture",
+		"skill_3": "HTTP request methods, response codes,request and response structures",
+		"skill_4": "JSON",
+		"skill_5": "XML",
+		"skill_6": "Postman",
+		"skill_7": "Sniffing http traffic",
+		"skill_8": "Dev tools",
+		"skill_9": "Mobile testing",
+		"skill_10": "XCode",
+		"skill_11": "Android Studio",
+		"skill_12": "ADB",
+		"skill_13": "Charles",
+		"skill_14": "Fiddler",
+		"skill_15": "Linux terminal",
+		"skill_16": "bash scripts and automatization",
+		"skill_17": "Accessing remote servers",
+		"skill_18": "SQL",
+		"skill_19": "Postgres",
+		"skill_20": "Redis",
+		"skill_21": "Jmeter",
+		"skill_22": "Scrum",
+		"skill_23": "Python"
+
+
+					}
+
+
+
+
+}
