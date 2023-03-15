@@ -1,1 +1,21 @@
+{
+      "Number": 1,
+      "Priority": "High",
+      "Severity": "High",
+      "Operating system": "macOS Ventura 13.2",
+      "Device": "MacBook Pro 13' 2019",
+      "Title": "text",
+      "Description": "text",
+      "Steps to reproduce": {
+      
+        "Step_1": "text",
+        "Step_2": "text",
+        "Step_3": "text",
+        "Step_4": "text",
+                                  }
 
+      "Expected result": "text",
+      "Actual result": "text"
+
+
+}
